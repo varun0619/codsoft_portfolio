@@ -13,7 +13,7 @@ body {
     border-radius: 5px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #2c9caf;
+    color: #fdbbfd;
     transition: all 1000ms;
     font-size: 15px;
     position: relative;
@@ -307,7 +307,7 @@ h4 {
     margin-top: 20px;
     margin: 15px;
     border-radius: 20px;
-    background: #405763;
+    background: black;
     box-shadow: 0px -1px 10px #bebebe, -1px 0px 5px #ffffff;
 }
 
